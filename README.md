@@ -1,3 +1,3 @@
-# undergraduate
-Leap - Spam filter for Emails
-Import into eclipse to run
+# undergraduate projects
+
+1. Leap - Spam filter for Emails [JAVA | SWING]
