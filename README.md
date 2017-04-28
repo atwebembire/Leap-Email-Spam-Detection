@@ -1,3 +1,3 @@
-# undergraduate projects
+# Leap - Spam filter and detection for Emails using JAVA, SWING
 
-1. Leap - Spam filter and detection for Emails: [JAVA | SWING]. Check the model folder for the logic
+-undergrad project
